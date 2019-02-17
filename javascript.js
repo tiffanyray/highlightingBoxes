@@ -15,6 +15,10 @@ $(document).ready(() => {
     $(this).css('box-shadow', "none");
   });
 
+  $('.box').on('click', function () {
+    $(this).css('backgroundColor', randomColor());
+  });
+
 
 
 
