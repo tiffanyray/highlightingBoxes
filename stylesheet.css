@@ -4,6 +4,15 @@ body {
   padding: 0;
 }
 
+h1 {
+  height: 14.2857143;
+  background: #160F29;
+  color: #42D9C8;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+}
+
 .box-container {
   width: 100vw;
   margin: 0 auto;
@@ -13,6 +22,6 @@ body {
 
 .box {
   width: 20vw;
-  height: 25vh;
+  height: 14.2857143vh;
   background-color: grey;
 }
